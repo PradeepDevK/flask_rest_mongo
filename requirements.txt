@@ -1,0 +1,3 @@
+Flask
+pymongo
+Flask-Testing-0.8.1
